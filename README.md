@@ -4,3 +4,4 @@
 - Languages: Python
 - Environment: Jupyter Notebook
 - Frameworks: Huggingface
+- Vector Database: Chroma
