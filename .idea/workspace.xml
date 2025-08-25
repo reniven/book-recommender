@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e02895b-50c3-472c-a153-a57c292a2182" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/sentiment-analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text-classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/text-classification.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "sentiment-analysis",
     "last_opened_file_path": "/Users/ericle/PycharmProjects/book-recommender",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -68,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756077030649</updated>
       <workItem from="1756077065614" duration="14841000" />
-      <workItem from="1756148209470" duration="3546000" />
+      <workItem from="1756148209470" duration="6882000" />
     </task>
     <servers />
   </component>
