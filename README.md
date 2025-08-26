@@ -5,7 +5,8 @@ This project entails building a semantic book recommender. This app allows you t
 - Languages: Python
 - Environment: Jupyter Notebook
 - Frameworks: Huggingface
-
+- Dashborad: Gradio
+  
 ## Use
 In order to search up a book, do the followign steps:
   1. Set up you're environemnt using the requirement.txt file
